@@ -7,6 +7,8 @@ The IT support team receives many tickets every day, and sometimes tickets take 
 -This project aims to analyze the ticket data to understand team performance, find problem areas, and suggest ways to improve response time and service quality.
 
 __Dataset Description:__
+
+
 The dataset contains detailed IT support ticket records used to analyze and optimize support team performance. Each record represents a single customer support interaction and includes customer demographics, product details, and ticket handling information.
 
 The dataset includes the following key attributes:
@@ -32,4 +34,13 @@ __Time to Resolution –__ Total time taken to resolve the issue
 __Customer Satisfaction Rating –__ Feedback score provided by the customer
 
 This dataset enables performance evaluation at both operational and customer experience levels. It helps measure key metrics such as response efficiency, resolution effectiveness, SLA adherence, workload distribution, and overall customer satisfaction. The data supports analytical insights to improve service quality and optimize team productivity.
+
+
+**KPI:**
+
+
+
+
+
+
 
