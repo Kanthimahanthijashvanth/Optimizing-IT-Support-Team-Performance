@@ -38,19 +38,73 @@ This dataset enables performance evaluation at both operational and customer exp
 
 **KPI:**
 
+**1. Total Ticket Volume**
+Represents the total number of support tickets generated in the dataset. This KPI helps measure overall workload handled by the support team.
+
+**2. Ticket Resolution Rate**
+Measures the percentage of tickets successfully resolved out of the total tickets raised.
+Formula:
+Resolution Rate = (Resolved Tickets / Total Tickets) × 100
+This KPI indicates the effectiveness of the support team in resolving customer issues.
+
+**3. Average First Response Time**
+Represents the average time taken by the support team to respond to a ticket after it is created.
+This KPI is critical for evaluating customer service responsiveness and is directly related to customer satisfaction.
+
+**4. Average Resolution Time**
+Measures the average time required to fully resolve a ticket from the time it was created.
+Lower resolution times indicate higher operational efficiency.
+
+**5. Customer Satisfaction Score**
+Represents the average customer satisfaction rating given after ticket resolution.
+This KPI measures the quality of customer support services.
+
+**6. Ticket Volume by Type**
+Tracks the number of tickets generated for each issue type (technical issue, refund request, billing inquiry, etc.).
+This helps identify high-frequency problems and system weaknesses.
+
+**7. Critical Ticket Backlog**
+Represents the number of high-priority or critical tickets that remain unresolved.
+This KPI helps monitor urgent issues that require immediate attention.
+
+**8. Channel Performance KPI**
+Measures the ticket distribution and satisfaction score across support channels such as Email, Phone, Chat, and Social Media.
+This helps determine which channels provide the best customer experience.
+
+**9. Product Issue Rate**
+Measures how many tickets are generated per product to identify products with the highest number of complaints or issues.
+
+**10. Ticket Trend Over Time**
+Tracks changes in ticket volume and resolution over time to detect seasonal spikes or workload increases.
+
 
 
 
 __Dashboard Description:-__
+The dashboard provides an interactive visualization of IT support ticket data to analyze operational performance and customer experience. It includes insights on ticket volume, resolution status, response time, customer satisfaction, and product-related issues. Visualizations such as bar charts, scatter plots, heatmaps, and trend charts help identify patterns in ticket handling, priority levels, and support channel performance. The dashboard helps stakeholders quickly understand problem areas and make data-driven decisions.
 
 
 __Key insights:__
+*Certain ticket types generate the highest volume but have lower resolution rates, indicating potential process inefficiencies.
+
+*Tickets with faster first response times tend to receive higher customer satisfaction scores.
+
+*Some products generate a larger number of critical tickets, creating backlog and increasing support workload.
+
+*Ticket volume shows noticeable spikes during specific periods, suggesting seasonal demand in customer support.
 
 
 __Recommendation :__
+*Improve response time for high-priority tickets to enhance customer satisfaction.
 
+*Allocate additional support resources for ticket types with high volume and low resolution rates.
+
+*Investigate products generating frequent critical issues and address root causes.
+
+*Plan support team capacity based on seasonal ticket trends to manage workload effectively.
 
 __Tools used:__
+-Power BI
 
 
 
